@@ -155,7 +155,7 @@ mutation {
 }
 
 ## Render Deployment Link: 
-https://your-render-deployed-url/graphql
+https://comp3133-101431281-assignment1.onrender.com/graphql
 
 ## GitHub Repository Link: 
 https://github.com/Nigar0826/COMP3133_101431281_Assignment1
